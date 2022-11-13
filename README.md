@@ -135,7 +135,7 @@ The time complexity is O(N).
 <br/>
 <hr/>
 
-## Problem Name 5 : 'Number Of Cuts':
+## Problem Name 5 -> [Number Of Cuts]() :
 ![](https://github.com/Tyrant670/TJ-Tasks-2022-Amit-Yadav/blob/main/Images/QNumberOfCuts.png)
 
 ### Approach :
