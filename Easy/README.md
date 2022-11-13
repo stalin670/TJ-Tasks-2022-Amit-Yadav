@@ -1,4 +1,4 @@
-# Here I've uploaded all Easy problems that I solved.
+## Here I've uploaded all Easy problems that I solved.
 
 ### Easy:
 * [Power of 2](https://leetcode.com/problems/power-of-two/)
